@@ -27,6 +27,7 @@
       </Trigger>
       <DdlTrigger>Database Triggers</DdlTrigger>
       <Assembly>Assemblies</Assembly>
+      <Assembly1>Assemblies</Assembly1>
       <Synonym>Synonyms</Synonym>
       <XmlSchemaCollection>Types\XML Schema Collections</XmlSchemaCollection>
       <MessageType>Service Broker\Message Types</MessageType>
