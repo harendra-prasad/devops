@@ -21,6 +21,7 @@
       <Function>Functions</Function>
       <Role>Security\Roles</Role>
       <Rule>Rules</Rule>
+	  <Rule1>Rules</Rule1>
       <User>Security\Users</User>
       <UserDefinedType>Types\User-defined Data Types</UserDefinedType>
       <Trigger>
